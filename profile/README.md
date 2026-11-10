@@ -27,6 +27,6 @@ El proyecto **SMART-FIN** ha sido financiado por la **Agencia Estatal de Investi
 La financiación concedida incluye:
 
 - **Subproyecto 1 (SUBP1)**: referencia **PID2025-174411OB-C21**, con una financiación concedida de **75.000 €**.
-- **Subproyecto 2 (SUBP2)**: referencia **PID2025-168636NB-C21**, con una financiación concedida de **43.750 €**.
+- **Subproyecto 2 (SUBP2)**: referencia **PID2025-174411OB-C22**, con una financiación concedida de **30.000 €**.
 
 En conjunto, estos subproyectos conforman el proyecto coordinado **SMART-FIN (Sustainable Multilingual Automated Resources and Technologies for Financial Translation)**, cuyo objetivo es impulsar la innovación en traducción financiera multilingüe mediante la integración de tecnologías avanzadas de inteligencia artificial, recursos lingüísticos especializados y metodologías de formación digital.
